@@ -3,7 +3,7 @@
 ## Koodieditori
 
 [Visual Studio Code](https://code.visualstudio.com/)<br/>
-Visual Studio Code teema[Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)<br/>
+[Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)<br/>
 
 ### Pluginit
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)<br/>
